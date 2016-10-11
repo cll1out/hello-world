@@ -3,4 +3,6 @@ Welcome to hello world.
 
 Nothing is developed yet. Sorry
 
+UPDTE: we expect to have some changes in the pipeline soon, but don’t get your hopes up.
+
 -CLL
